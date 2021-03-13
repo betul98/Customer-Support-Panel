@@ -1,0 +1,11 @@
+ADMİN;
+ID:1234567890   Password:admin
+
+CUSTOMERS;
+ID:1234567000   Password:cust
+ID:1234         Password:c3
+
+
+TECHCREW;
+ID:123456       Password:tech1
+ID:1234567      Password:tech
